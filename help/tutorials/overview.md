@@ -4,7 +4,7 @@ description: Adobe Mix Modeler のビデオとチュートリアルのコレク�
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -13,9 +13,9 @@ ht-degree: 12%
 
 # Mix Modeler チュートリアル
 
-これらのビデオとチュートリアルからAdobe Mix Modelerについて説明します。
+これらのビデオとチュートリアルから、Adobe Mix Modelerについて説明します。
 
-Adobe Mix Modelerは、マーケティング投資の過去および将来が主要なビジネス目標に与える影響に関するインサイトを提供する機械学習モデルを適用することで、企業がマーケティング投資を測定、最適化、計画するのに役立ちます。
+Adobe Mix Modelerは、主要なビジネス目標に対するマーケティング投資の過去および将来の影響に関するインサイトを提供する機械学習モデルを適用することで、企業がマーケティング投資を測定、最適化、計画するのに役立ちます。
 
 
 <div id="recs-overview-body-1"></div>
@@ -30,19 +30,6 @@ Adobe Mix Modelerは、マーケティング投資の過去および将来が主
 <div id="staff-picks-section">
 <table style="margin-top: 0 !important">
 <tr>
-  <td>
-    <a href="intro/use-cases.md">
-      <img alt="「ユースケース」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong> ユースケース </strong>
-    </a>
-    </div>
-    <p>
-    <em>Adobe Mix Modelerの主なユースケースを学ぶ </em>
-    <p>
-  </td>
   <td>
     <a href="intro/demo.md">
       <img alt="「エンドツーエンドデモ」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
@@ -70,6 +57,19 @@ Adobe Mix Modelerは、マーケティング投資の過去および将来が主
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="「ユーザーワークフロー」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong> ユーザーワークフロー </strong>
+    </a>
+    </div>
+    <p>
+    <em>Adobe Mix Modelerのユーザーワークフローについて説明します </em>。
+    <p>
+  </td>
 </table>
 
 </div>
