@@ -4,7 +4,7 @@ description: Adobe Mix Modeler のビデオとチュートリアルのコレク�
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -56,7 +56,6 @@ Adobe Mix Modelerは、主要なビジネス目標に対するマーケティン
     <em>Adobe Mix Modelerの主要なユーザーインターフェイスコンポーネントについて説明します </em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="「ユーザーワークフロー」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -70,6 +69,7 @@ Adobe Mix Modelerは、主要なビジネス目標に対するマーケティン
     <em>Adobe Mix Modelerのユーザーワークフローについて説明します </em>。
     <p>
   </td>
+</tr>
 </table>
 
 </div>
