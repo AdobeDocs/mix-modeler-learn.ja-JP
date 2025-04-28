@@ -1,5 +1,5 @@
 ---
-title: Mix Modelerのエンドツーエンドのデモ
+title: Mix Modelerのエンドツーエンドデモ
 description: Adobe Mix Modelerのエンドツーエンドワークフローについて説明します。
 role: Developer, User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Mix Modelerのエンドツーエンドのデモ
+# Mix Modelerのエンドツーエンドデモ
 
-Adobe Mix Modelerのエンドツーエンドのデモをご覧ください。 詳しくは、[Mix Modelerドキュメント ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview) を参照してください。
+Adobe Mix Modelerのエンドツーエンドのデモをご覧ください。 詳しくは、[Mix Modeler ドキュメント ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
