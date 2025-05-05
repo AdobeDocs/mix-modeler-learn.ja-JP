@@ -19,4 +19,4 @@ ht-degree: 28%
 
 ユーザーインターフェイスでMix Modelerの主な機能を確認する。 詳しくは、[Adobe Mix Modelerガイド ](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/get-started/workflow) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452383?learn=on&enablevpops&captions=jpn)

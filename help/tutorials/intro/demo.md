@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Adobe Mix Modelerのエンドツーエンドのデモをご覧ください。 詳しくは、[Mix Modeler ドキュメント ](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440795/?learn=on&enablevpops&captions=jpn)

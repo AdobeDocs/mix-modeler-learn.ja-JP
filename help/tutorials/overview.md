@@ -32,7 +32,7 @@ Adobe Mix Modelerは、主要なビジネス目標に対するマーケティン
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="「エンドツーエンドデモ」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="「エンドツーエンドデモ」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3440795?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +45,7 @@ Adobe Mix Modelerは、主要なビジネス目標に対するマーケティン
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネール画像" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="「ユーザーインターフェイスツアー」ビデオのサムネール画像" src="https://video.tv.adobe.com/v/3452383?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +58,7 @@ Adobe Mix Modelerは、主要なビジネス目標に対するマーケティン
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="「ユーザーワークフロー」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="「ユーザーワークフロー」チュートリアルのサムネール画像" src="https://video.tv.adobe.com/v/3440204?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="intro/user-workflow.md">

@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Mix Modelerのワークフローを説明します。 詳しくは、[Mix Modelerワークフロー ](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/get-started/workflow) ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440204?learn=on&enablevpops&captions=jpn)
