@@ -11,12 +11,12 @@ exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
 source-git-commit: 28f2a40e4b23240a9efc4c5288412b07df72c755
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 24%
+ht-degree: 27%
 
 ---
 
 # Mix Modelerのエンドツーエンドデモ
 
-Adobe Mix Modelerのエンドツーエンドのデモをご覧ください。 詳しくは、[Mix Modeler ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview) を参照してください。
+Adobe Mix Modelerのエンドツーエンドのデモをご覧ください。 詳しくは、[Mix Modeler ドキュメント ](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440795/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)

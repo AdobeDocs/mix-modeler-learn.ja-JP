@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # ユーザーワークフロー
 
-Mix Modelerのワークフローを説明します。 詳しくは、[Mix Modelerワークフロー &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/get-started/workflow) ドキュメントを参照してください。
+Mix Modelerのワークフローを説明します。 詳しくは、[Mix Modeler ワークフロー ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440204?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
