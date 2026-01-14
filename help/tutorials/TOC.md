@@ -5,10 +5,10 @@ user-guide-description: Adobe Mix Modeler のビデオとチュートリアル�
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: d671050ee37161860ac6a3c64c78595c4d80c5f5
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 55%
+source-wordcount: '38'
+ht-degree: 52%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 55%
    + [ユーザーワークフロー](/help/tutorials/intro/user-workflow.md)
    + [エンドツーエンドのデモ](/help/tutorials/intro/demo.md)
    + [ユーザーインターフェイスツアー](/help/tutorials/intro/user-interface-tour.md)
++ 機能 {#features}
+   + [目標ベースの計画](/help/tutorials/features/goal-based-planning.md)
