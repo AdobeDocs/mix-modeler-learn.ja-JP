@@ -6,9 +6,9 @@ level: Beginner
 doc-type: Value Video
 hide: true
 hidefromtoc: true
-source-git-commit: 5869f4a2c26964ac4d4d7bd2fefb89826431e557
+source-git-commit: 4cf4490922855f1942c54215ca710f7aee652ec1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 目標ベースの計画
 
-Mix Modelerの目標ベースの計画機能を使用すると、予算だけでなくビジネス目標から計画できます。 最大の ROI で目標を達成するために、チャネルやキャンペーンをまたいで効率的に予算を割り当てることができます。
+Mix Modelerの目標ベースの計画機能を使用すると、予算だけでなくビジネス目標から計画できます。 最大の ROI で目標を達成するために、チャネルやキャンペーンをまたいで効率的に予算を割り当てることができます。 詳しくは、Mix Modeler ドキュメントの [ プラン ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} を参照してください。
 
 >[!SLIDE](goal-based-planning)
 
