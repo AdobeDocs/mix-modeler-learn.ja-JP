@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # モデルドリフト検出
 
-Mix Modelerのモデルドリフト検出機能により、モデル上のドリフトが自動検出され、すぐに行動を起こしたり、より詳細にドリフトを調べたりすることができます。 詳しくは、Mix Modeler ドキュメントの [ モデルドリフト ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} を参照してください。
+Mix Modelerのモデルドリフト検出機能により、モデル上のドリフトが自動検出され、すぐに行動を起こしたり、より詳細にドリフトを調べたりすることができます。 詳しくは、Mix Modeler ドキュメントの [&#x200B; モデルドリフト &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} を参照してください。
 
 >[!SLIDE](model-drift-detection)
