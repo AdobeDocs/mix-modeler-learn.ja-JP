@@ -7,7 +7,7 @@ doc-type: Value Video
 jira: KT-20158
 hide: true
 hidefromtoc: true
-source-git-commit: 312d2e09d5c83e0f6d78d56bf163171430fb437e
+source-git-commit: 2c4f1d0c95d6bd9d299763b44ed2160142a5abd3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # モデルドリフト検出
 
-Mix Modelerのモデルドリフト検出機能により、モデル上のドリフトが自動検出され、すぐに行動を起こしたり、より詳細にドリフトを調べたりすることができます。 詳しくは、Mix Modeler ドキュメントの [&#x200B; モデルドリフト &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} を参照してください。
+Mix Modelerのモデルドリフト検出機能により、モデル性能の変化を自動検知し、利用者に通知します。 迅速なアクションを実行して、モデルを最適なパフォーマンスに戻すことができます。 詳しくは、Mix Modeler ドキュメントの [ モデルドリフト ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} を参照してください。
 
 >[!SLIDE](model-drift-detection)
 
