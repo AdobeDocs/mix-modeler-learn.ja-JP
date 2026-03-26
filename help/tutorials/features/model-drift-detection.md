@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # モデルドリフト検出
 
-Mix Modelerのモデルドリフト検出機能では、モデルパフォーマンスの変化が自動的に検出され、ユーザーに通知されます。 モデルを最適なパフォーマンスに戻すために、すぐにアクションを起こすことができます。 詳しくは、Mix Modeler ドキュメントの[&#x200B; モデルドリフト &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}を参照してください。
+Mix Modelerのモデルドリフト検出機能では、モデルパフォーマンスの変化が自動的に検出され、ユーザーに通知されます。 モデルを最適なパフォーマンスに戻すために、すぐにアクションを起こすことができます。 詳しくは、Mix Modeler ドキュメントの[&#x200B; モデルドリフト &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}を参照してください。
 
 >[!SLIDE](model-drift-detection)
