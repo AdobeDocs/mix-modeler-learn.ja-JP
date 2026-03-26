@@ -17,6 +17,6 @@ ht-degree: 46%
 
 # ユーザーインターフェイスツアー
 
-ユーザーインターフェイスの Mix Modeler の主な機能を参照してください。 詳しくは、[Adobe Mix Modeler ガイド ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)を参照してください。
+ユーザーインターフェイスの Mix Modeler の主な機能を参照してください。 詳しくは、[Adobe Mix Modeler ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
