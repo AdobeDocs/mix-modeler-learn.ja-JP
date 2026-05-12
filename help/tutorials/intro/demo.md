@@ -46,4 +46,4 @@ ht-degree: 37%
 
 Adobe Mix Modelerの詳細なデモをご覧ください。 詳しくは、[Mix Modelerのドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/overview)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440795/?captions=jpn&learn=on&enablevpops)
